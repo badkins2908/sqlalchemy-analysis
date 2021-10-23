@@ -1,8 +1,6 @@
-# sqlalchemy-analysis
-
+# Surfs Up! SQLalchemy Analysis
 
 ## Overview of the statistical analysis
-
 Utilizing SQLalchemy to query from a SQLite table/file, in order to create a dataframes on Hawaii percipitation and temperatures data to run analyses in Python.
 
 ## Results
